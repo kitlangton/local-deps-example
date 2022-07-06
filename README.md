@@ -1,4 +1,4 @@
-# local-deps
+# local-deps-example
 
 An example of a decent local dependency workflow with sbt.
 
